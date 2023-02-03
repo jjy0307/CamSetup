@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "CgisEQzuDI2WlUo0JpEW8xMSqZPANymYUa/sebDvmVqFFDFtyMAdPm+xq0+745haRZ9RbN5wESZ7Tgd0HNo35g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JY-PC\\source\\repos\\CamSetup\\CamSetup\\CamSetup.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JY-PC\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\JY-PC\\.nuget\\packages\\microsoft.win32.systemevents\\4.5.0\\microsoft.win32.systemevents.4.5.0.nupkg.sha512",
+    "C:\\Users\\JY-PC\\.nuget\\packages\\opencvsharp3-anycpu\\4.0.0.20181129\\opencvsharp3-anycpu.4.0.0.20181129.nupkg.sha512",
+    "C:\\Users\\JY-PC\\.nuget\\packages\\system.drawing.common\\4.5.0\\system.drawing.common.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
